@@ -1,1 +1,5 @@
-
+Ramurile de urmărire (tracking branchs) în Git 
+sunt ramuri care sunt conectate la sau ramuri specifice 
+pe un server remote. 
+Acestea sunt esențiale pentru colaborarea în echipă și pentru 
+a sincroniza lucrul nostru local cu ceea ce există pe serverul remote.
